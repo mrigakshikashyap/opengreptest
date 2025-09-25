@@ -1,2 +1,2 @@
 # opengreptest
-to test opengrep findings
+to test opengrep findings.
